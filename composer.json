@@ -1,7 +1,7 @@
 {
     "name": "wtf/html",
     "type": "library",
-    "description": "HTML package for TiSuit",
+    "description": "HTML package for WTF Framework",
     "license": "MIT",
     "prefer-stable": true,
     "require": {
